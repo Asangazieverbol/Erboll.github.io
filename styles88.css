@@ -1,0 +1,13 @@
+body {
+    background-image: url("C:\\Users\\HP 1\\Pictures\\Saved Pictures\\Без названия (2).jpg");
+    background-size: cover;
+    background-position: center;
+    color: white; /* Устанавливаем белый цвет текста */
+}
+body {
+    background-image: url("C:\\Users\\HP 1\\Pictures\\Saved Pictures\\Без названия (2).jpg");
+    background-size: cover;
+    background-position: center;
+    color: white; /* Устанавливаем белый цвет текста */
+    font-size: 30px; /* Увеличиваем размер текста до 24 пикселей */
+}
